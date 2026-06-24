@@ -137,7 +137,7 @@ PUT /books/:id
 ![PUT](./proyect-4-nosql/put_edit_postman.png)
 
 #### Resultado en la BD
-![PUT](./proyect-4-nosql/put_edit_db.png.png)
+![PUT](./proyect-4-nosql/put_edit_db.png)
 
 ---
 
