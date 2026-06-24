@@ -71,7 +71,7 @@ GET /books/:id
 
 #### Resultado
 
-![GET BY ID](./proyect-4-nosql/get_id_postman.png.png)
+![GET BY ID](./proyect-4-nosql/get_id_postman.png)
 
 ---
 
